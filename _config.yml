@@ -24,8 +24,8 @@ description              : "개발 저장소"
 url                      : "https://black-nine-coder.github.io//" # GitBlog 호스트 주소
 baseurl                  : ""
 repository               : "black-nine-coder/black-nine-coder.github.com" 
-teaser                   : 
-logo                     : 
+teaser                   : ""
+logo                     : ""
 masthead_title           : ""
 breadcrumbs              : true # _data/ui-text.yml에 다국어 지원 가능합니다.
 words_per_minute         : 200  # 읽는데 걸리
