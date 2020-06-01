@@ -22,11 +22,11 @@ subtitle                 : "Version 1.0"
 name                     : "강창수"
 description              : "개발 저장소"
 url                      : "https://black-nine-coder.github.io/" # 호스트 주소
-baseurl                  : ""
+baseurl                  : 
 repository               : "black-nine-coder/black-nine-coder.github.com"
-teaser                   : ""
-logo                     : ""
-masthead_title           : ""
+teaser                   : 
+logo                     : 
+masthead_title           : 
 breadcrumbs              : true # _data/ui-text.yml에 다국어 지원 가능합니다.
 words_per_minute         : 200  # 읽는데 걸리
 comments:
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "black-nine-coder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : 
   location         : "Republic of Korea"
   email            : "ychaos0809@gmail.com"
   links:
