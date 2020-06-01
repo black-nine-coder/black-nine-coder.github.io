@@ -21,9 +21,9 @@ title_separator          : "&#124;"
 subtitle                 : "Version 1.0"
 name                     : "강창수"
 description              : "개발 저장소"
-url                      : "https://black-nine-coder.github.io//" # GitBlog 호스트 주소
+url                      : "https://black-nine-coder.github.io/" # 호스트 주소
 baseurl                  : ""
-repository               : "black-nine-coder/black-nine-coder.github.com" 
+repository               : "black-nine-coder/black-nine-coder.github.com"
 teaser                   : ""
 logo                     : ""
 masthead_title           : ""
