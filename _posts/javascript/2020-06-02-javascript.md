@@ -14,8 +14,8 @@ toc_label: 목차
 
 article_tag1: Javascript
 article_tag2: function 
-# article_section: React useState
-# meta_keywords: React useState
+# article_section: Javascript
+# meta_keywords: Rest Spread
 last_modified_at: '2020-06-02 09:00:00 +0800'
 ---
 
