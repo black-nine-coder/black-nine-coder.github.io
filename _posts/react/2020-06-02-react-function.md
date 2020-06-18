@@ -42,5 +42,3 @@ last_modified_at: '2020-06-02 09:00:00 +0800'
     [name]: value
   });
   ```
-
-  이어 다음은 spread 문법 ...
