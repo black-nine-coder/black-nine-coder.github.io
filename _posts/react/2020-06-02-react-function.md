@@ -33,3 +33,6 @@ last_modified_at: '2020-06-02 09:00:00 +0800'
   const next = useRef(1);
   // 파라미터의 1은 .current 값의 기본값이 됨
 ```
+
+## useEffect
+- 리액트 컴포넌트가 렌더링 될 때마다 특정 작업을 실행할 수 있도록 하는 Hook 
