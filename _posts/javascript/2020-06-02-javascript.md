@@ -19,13 +19,6 @@ article_tag2: function
 last_modified_at: '2020-06-23 09:00:00 +0800'
 ---
 
-## 브라우저의 동작 방식
-1. HTML을 읽기 시작한다.
-1. HTML을 파싱한다.
-1. DOM 트리를 생성한다.
-1. Render 트리(DOM tree + CSS의 CSSOM 트리 결합)가 생성되고
-1. Display에 표시한다.
-
 ## Hello javascript 
 ```javascript
 console.log('Hello javascript');
