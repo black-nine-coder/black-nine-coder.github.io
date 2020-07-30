@@ -1,5 +1,5 @@
 ---
-title: Django
+title: Python Expert
 layout: single
 author_profile: true
 read_time: true
@@ -7,20 +7,13 @@ comments: true
 share: true
 related: true
 categories:
-- Django
+- Python Expert 
 toc: true
 toc_sticky: true
 toc_label: 목차
 
-article_tag1: Django
+article_tag1: Python Expert
 # article_section: Javascript
 # meta_keywords: Rest Spread
 last_modified_at: '2020-06-08 09:00:00 +0800'
 ---
-
-## Django
-- Django와 데이터 드리븐 웹 어플리케이션 작성 방법
-    1. 모델 설계
-    1. URL 설계
-    1. 뷰 작성
-    1. 템플릿 작성

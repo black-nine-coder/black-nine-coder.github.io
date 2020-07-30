@@ -1,5 +1,5 @@
 ---
-title: python
+title: Python Basic 
 layout: single
 author_profile: true
 read_time: true
@@ -7,12 +7,12 @@ comments: true
 share: true
 related: true
 categories:
-- Django, Basic
+- python
 toc: true
 toc_sticky: true
 toc_label: 목차
 
-article_tag1: Django, Basic
+article_tag1: python
 # article_section: Javascript
 # meta_keywords: Rest Spread
 last_modified_at: '2020-06-08 09:00:00 +0800'
